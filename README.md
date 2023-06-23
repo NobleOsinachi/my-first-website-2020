@@ -1,11 +1,10 @@
-Sure! Here's the raw README file that you can copy:
-
-```
-# README: My First Website
+# My First Website (2020)
 
 ## Introduction
 
 Welcome to my first website! This project is designed to bring nostalgic vibes and take you back to the days of early beginnings. It's a personal endeavor where I've poured my creativity and passion into creating something special. Join me on this journey as we explore the essence of nostalgia together.
+
+[CodePen Link](https://codepen.io/nobleosinachi/pen/wvKYMGP)https://codepen.io/nobleosinachi/pen/wvKYMGP
 
 ## Table of Contents
 
@@ -63,9 +62,3 @@ Contributions are welcome! If you have any suggestions, improvements, or would l
 This project is licensed under the [MIT License](LICENSE). Feel free to use the code and customize it according to your needs.
 
 Thank you for visiting my first website! Enjoy the nostalgia and may it bring back cherished memories from the early days.
-```
-
-Feel free to copy and use this README template for your first website.
-My first website then in 2020
-
-[CodePen Link](https://codepen.io/nobleosinachi/pen/wvKYMGP)https://codepen.io/nobleosinachi/pen/wvKYMGP
